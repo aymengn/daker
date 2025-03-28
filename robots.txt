@@ -1,2 +1,3 @@
-User-agent: * 
-Disallow: /feed
+User-agent: *
+Disallow:
+Sitemap: https://aymengn.github.io/daker/sitemap.xml
